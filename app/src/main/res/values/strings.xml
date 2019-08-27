@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sound Link</string>
+    <string name="button_send">Send</string>
+    <string name="button_connect">Connect</string>
+    <string name="hint_server_ip">Server IP</string>
+    <string name="hint_server_port">Server Port</string>
+    <string name="sw_connection">Connection</string>
+    <string name="string_microphone">Microphone</string>
+    <string name="string_speaker">Speaker</string>
+    <string name="tvMicEnhance" >Enhance</string>
+</resources>
